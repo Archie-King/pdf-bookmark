@@ -36,16 +36,16 @@
 
 2. 操作过程如下图：
 
+   ![1.png](https://github.com/Archie-King/images/blob/main/1.png?raw=true)
+
+   ![2.png](https://github.com/Archie-King/images/blob/main/2.png?raw=true)
    
-
-   ![image-20210614194801998](C:\Users\Archi\AppData\Roaming\Typora\typora-user-images\image-20210614194801998.png)
-
-![image-20210614195034746](C:\Users\Archi\AppData\Roaming\Typora\typora-user-images\image-20210614195034746.png)
+   
 
 3. 然后将此前在word中生成的目录完整带格式的复制过来（CTRL+A)，粘贴后保存。
 
-   ![image-20210614195518333](C:\Users\Archi\AppData\Roaming\Typora\typora-user-images\image-20210614195518333.png)
+   ![3.png](![3.png](https://github.com/Archie-King/images/blob/main/3.png?raw=true))
 
-   ![image-20210614195610647](C:\Users\Archi\AppData\Roaming\Typora\typora-user-images\image-20210614195610647.png)
+   ![4.png](https://github.com/Archie-King/images/blob/main/4.png?raw=true)
 
 4. 成功
