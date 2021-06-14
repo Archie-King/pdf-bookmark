@@ -44,7 +44,7 @@
 
 3. 然后将此前在word中生成的目录完整带格式的复制过来（CTRL+A)，粘贴后保存。
 
-   ![3.png](![3.png](https://github.com/Archie-King/images/blob/main/3.png?raw=true))
+   ![3.png](https://github.com/Archie-King/images/blob/main/3.png?raw=true)
 
    ![4.png](https://github.com/Archie-King/images/blob/main/4.png?raw=true)
 
