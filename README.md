@@ -1,4 +1,4 @@
-# caj2pdf-add bookmark
+# pdf-add bookmark
 
 [TOC]
 
